@@ -1,6 +1,6 @@
 Imagine Decoding Challenge
 
-Track 1: Kaggle Competition
+Track 1: Kaggle Competition (https://www.kaggle.com/competitions/the-imagine-decoding-challenge)
 
 Group Members: Athirah, Heidi and Izzah
 
